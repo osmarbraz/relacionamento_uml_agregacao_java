@@ -14,7 +14,7 @@
 - O projeto foi desenvolvido no NetBeans deve ser chamado relacionamento_uml_agregacao_java.<br>
 - Utiliza o Apache Maven para a automatização da construção.<br>
 
-## Diagrama
+## Diagrama de classe
 
 ![Diagrama de classe](diagramadeclasse.png)
 
