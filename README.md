@@ -22,6 +22,7 @@
 
 O arquivo Modelo.EAP é o projetodo sistema utilizando ferramanta CASE Enterprise Arquitect.
 
-## Outras arquivos
+## Outros arquivos
+
 - pom.xml - Arquivo de configuração da ferramenta de automação Maven.
 - *.bat - Arquivos de lote(Batch) de console para tarefas compilar, executar, documentar, empacotar e limpar o projeto.
